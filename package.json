@@ -1,0 +1,9 @@
+{
+  "name": "cbrum-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Landing page da C. Brum Metalúrgica — site estático, sem dependências.",
+  "scripts": {
+    "build": "echo Site estatico, nenhum build necessario"
+  }
+}
